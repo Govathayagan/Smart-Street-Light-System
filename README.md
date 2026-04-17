@@ -4,7 +4,7 @@
 ## Working Model
 
 ![Working](images/sm1.png)
-![Working](images/sm2.png)
+![Working](https://github.com/Govathayagan/Smart-Street-Light-System/blob/b8376abbeb523cd3bb9db8fea9e43900dd70cc99/GitHub-logo.png)
 
 ## 🔹 Description
 
