@@ -1,7 +1,6 @@
 
 # Smart Street Light System
 
-
 ## Working Model
 
 ![Working](images/sm1.png)
