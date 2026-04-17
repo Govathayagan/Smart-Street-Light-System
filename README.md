@@ -1,6 +1,6 @@
 
 # Smart Street Light System
-### Working Model
+
 
 ## Working Model
 
