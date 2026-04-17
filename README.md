@@ -2,8 +2,12 @@
 # Smart Street Light System
 ### Working Model
 
+## Working Model
+
 ![Working](images/sm1.png)
+
 ![Working](images/sm2.png)
+
 ## 🔹 Description
 
 This project is an automatic street lighting system that operates based on surrounding light conditions. It uses an LDR sensor to detect light intensity and automatically controls the street light.
